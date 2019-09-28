@@ -1,0 +1,5 @@
+body {
+	/*rem은 body의 기본폰트를 이용해 상대적으로 body의 기본폰트는 16px이다.*/
+	font-size: 4rem;
+	color: blue;
+}
